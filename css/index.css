@@ -1,0 +1,65 @@
+
+h2{
+    color:goldenrod;
+    text-align: center;
+}
+
+
+
+
+.minav{
+    background-color:rgb(12, 87, 193);
+    height:100px
+
+}
+
+.boton-cotiza {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    background: red;
+    text-align: center;
+    border-radius: 20px;
+    padding: 15px 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 40px;
+    margin-top:30px;
+    font-weight: bold;
+}
+.obten{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.boton-cotiza {
+    cursor: pointer;
+    background-image: linear-gradient(190deg, #f83600 0%, #fee140 100%);
+    color: #fff;
+    width: 180px;
+    text-align: center;
+    font-size:16px;
+    padding: 18px 0;
+    margin: 0 auto;
+    transition:background-image 3s ease-in-out;
+    margin-bottom: 40px;
+  }
+
+    .bg-header {
+        background-color: #0c57c1;
+    }
+
+   .navbar a{
+    color: #fff;
+   }
+   a.dropdown-item{
+    color: black;
+   }
+   .info{
+    padding: 40px;
+   }
+   .form-group{
+    margin: 10px 0px; 
+   }
+  
